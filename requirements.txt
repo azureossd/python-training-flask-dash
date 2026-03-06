@@ -9,7 +9,7 @@ Flask-Compress==1.4.0
 future==1.0.0
 itsdangerous==1.1.0
 Jinja2==3.1.6
-MarkupSafe==1.1.1
+MarkupSafe==3.0.3
 numpy==2.4.2
 pandas==1.0.3
 plotly==6.6.0
