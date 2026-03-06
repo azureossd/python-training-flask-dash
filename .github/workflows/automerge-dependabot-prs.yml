@@ -7,7 +7,7 @@ on:
     # match dependabot branches
     # match main branch
     branches:
-      - main
+      - master
 
   workflow_dispatch:
 
